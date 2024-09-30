@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "payload": [
+        {
+            "type": "rad_dr",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 40.12,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.05832,
+            "unit": "nSv/h"
+        }
+    ]
+}

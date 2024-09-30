@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "payload": [
+        {
+            "when_captured": "2024-02-29T21:30:01Z",
+            "device": "Ext_ident_876",
+            "loc_lat": 44.31435569033905,
+            "loc_lon": -81.54987472120817,
+            "type": "spectrum",
+            "reading": {
+                "spectrum_type": "1keV",
+                "count": [0, 0, 0, 0, 0, 0, 2, 6, 15, 13, 9, 18, 7, 15, 11, 18, 15, 21, 30]
+            }
+        }
+    ]
+}

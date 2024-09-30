@@ -1,0 +1,1304 @@
+{
+    "version": 1,
+    "labels": [
+        "synthetic"
+    ],
+    "payload": [
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T00:00:00Z",
+            "device": 1,
+            "reading": 96.77,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T00:10:00Z",
+            "device": 1,
+            "reading": 89.48,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T00:20:00Z",
+            "device": 1,
+            "reading": 94.28,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T00:30:00Z",
+            "device": 1,
+            "reading": 106.76,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T00:40:00Z",
+            "device": 1,
+            "reading": 109.23,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T00:50:00Z",
+            "device": 1,
+            "reading": 106.63,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T01:00:00Z",
+            "device": 1,
+            "reading": 107.6,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T01:10:00Z",
+            "device": 1,
+            "reading": 102.4,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T01:20:00Z",
+            "device": 1,
+            "reading": 90.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T01:30:00Z",
+            "device": 1,
+            "reading": 85.11,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T01:40:00Z",
+            "device": 1,
+            "reading": 87.47,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T01:50:00Z",
+            "device": 1,
+            "reading": 95.81,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T02:00:00Z",
+            "device": 1,
+            "reading": 105.65,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T02:10:00Z",
+            "device": 1,
+            "reading": 108.98,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T02:20:00Z",
+            "device": 1,
+            "reading": 105.15,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T02:30:00Z",
+            "device": 1,
+            "reading": 101.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T02:40:00Z",
+            "device": 1,
+            "reading": 95.04,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T02:50:00Z",
+            "device": 1,
+            "reading": 90.59,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T03:00:00Z",
+            "device": 1,
+            "reading": 89.04,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T03:10:00Z",
+            "device": 1,
+            "reading": 91.38,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T03:20:00Z",
+            "device": 1,
+            "reading": 100.39,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T03:30:00Z",
+            "device": 1,
+            "reading": 99.78,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T03:40:00Z",
+            "device": 1,
+            "reading": 90.57,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T03:50:00Z",
+            "device": 1,
+            "reading": 92.57,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T04:00:00Z",
+            "device": 1,
+            "reading": 97.49,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T04:10:00Z",
+            "device": 1,
+            "reading": 102.8,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T04:20:00Z",
+            "device": 1,
+            "reading": 110.24,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T04:30:00Z",
+            "device": 1,
+            "reading": 104.91,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T04:40:00Z",
+            "device": 1,
+            "reading": 97.05,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T04:50:00Z",
+            "device": 1,
+            "reading": 94.16,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T05:00:00Z",
+            "device": 1,
+            "reading": 100.82,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T05:10:00Z",
+            "device": 1,
+            "reading": 102.11,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T05:20:00Z",
+            "device": 1,
+            "reading": 94.55,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T05:30:00Z",
+            "device": 1,
+            "reading": 88.83,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T05:40:00Z",
+            "device": 1,
+            "reading": 95.97,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T05:50:00Z",
+            "device": 1,
+            "reading": 110.91,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T06:00:00Z",
+            "device": 1,
+            "reading": 116.35,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T06:10:00Z",
+            "device": 1,
+            "reading": 111.42,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T06:20:00Z",
+            "device": 1,
+            "reading": 103.93,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T06:30:00Z",
+            "device": 1,
+            "reading": 104.82,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T06:40:00Z",
+            "device": 1,
+            "reading": 110.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T06:50:00Z",
+            "device": 1,
+            "reading": 113.99,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T07:00:00Z",
+            "device": 1,
+            "reading": 112.35,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T07:10:00Z",
+            "device": 1,
+            "reading": 103.61,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T07:20:00Z",
+            "device": 1,
+            "reading": 99.19,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T07:30:00Z",
+            "device": 1,
+            "reading": 105.56,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T07:40:00Z",
+            "device": 1,
+            "reading": 107.5,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T07:50:00Z",
+            "device": 1,
+            "reading": 103.75,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T08:00:00Z",
+            "device": 1,
+            "reading": 97.43,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T08:10:00Z",
+            "device": 1,
+            "reading": 94.85,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T08:20:00Z",
+            "device": 1,
+            "reading": 100.03,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T08:30:00Z",
+            "device": 1,
+            "reading": 104.45,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T08:40:00Z",
+            "device": 1,
+            "reading": 101.03,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T08:50:00Z",
+            "device": 1,
+            "reading": 99.17,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T09:00:00Z",
+            "device": 1,
+            "reading": 101.74,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T09:10:00Z",
+            "device": 1,
+            "reading": 96.75,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T09:20:00Z",
+            "device": 1,
+            "reading": 90.45,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T09:30:00Z",
+            "device": 1,
+            "reading": 94.87,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T09:40:00Z",
+            "device": 1,
+            "reading": 101.61,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T09:50:00Z",
+            "device": 1,
+            "reading": 98.04,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T10:00:00Z",
+            "device": 1,
+            "reading": 93.42,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T10:10:00Z",
+            "device": 1,
+            "reading": 98.89,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T10:20:00Z",
+            "device": 1,
+            "reading": 108.62,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T10:30:00Z",
+            "device": 1,
+            "reading": 112.71,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T10:40:00Z",
+            "device": 1,
+            "reading": 108.35,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T10:50:00Z",
+            "device": 1,
+            "reading": 93.78,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T11:00:00Z",
+            "device": 1,
+            "reading": 85.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T11:10:00Z",
+            "device": 1,
+            "reading": 89.65,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T11:20:00Z",
+            "device": 1,
+            "reading": 102.27,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T11:30:00Z",
+            "device": 1,
+            "reading": 106.49,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T11:40:00Z",
+            "device": 1,
+            "reading": 108.31,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T11:50:00Z",
+            "device": 1,
+            "reading": 109.99,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T12:00:00Z",
+            "device": 1,
+            "reading": 112.01,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T12:10:00Z",
+            "device": 1,
+            "reading": 113.76,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T12:20:00Z",
+            "device": 1,
+            "reading": 109.22,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T12:30:00Z",
+            "device": 1,
+            "reading": 101.81,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T12:40:00Z",
+            "device": 1,
+            "reading": 101.85,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T12:50:00Z",
+            "device": 1,
+            "reading": 103.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T13:00:00Z",
+            "device": 1,
+            "reading": 106.3,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T13:10:00Z",
+            "device": 1,
+            "reading": 108.0,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T13:20:00Z",
+            "device": 1,
+            "reading": 106.04,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T13:30:00Z",
+            "device": 1,
+            "reading": 104.78,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T13:40:00Z",
+            "device": 1,
+            "reading": 104.26,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T13:50:00Z",
+            "device": 1,
+            "reading": 106.69,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T14:00:00Z",
+            "device": 1,
+            "reading": 106.91,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T14:10:00Z",
+            "device": 1,
+            "reading": 104.77,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T14:20:00Z",
+            "device": 1,
+            "reading": 106.09,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T14:30:00Z",
+            "device": 1,
+            "reading": 108.53,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T14:40:00Z",
+            "device": 1,
+            "reading": 110.77,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T14:50:00Z",
+            "device": 1,
+            "reading": 104.33,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T15:00:00Z",
+            "device": 1,
+            "reading": 95.42,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T15:10:00Z",
+            "device": 1,
+            "reading": 96.32,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T15:20:00Z",
+            "device": 1,
+            "reading": 105.43,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T15:30:00Z",
+            "device": 1,
+            "reading": 109.68,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T15:40:00Z",
+            "device": 1,
+            "reading": 110.97,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T15:50:00Z",
+            "device": 1,
+            "reading": 103.16,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T16:00:00Z",
+            "device": 1,
+            "reading": 89.56,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T16:10:00Z",
+            "device": 1,
+            "reading": 90.68,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T16:20:00Z",
+            "device": 1,
+            "reading": 93.06,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T16:30:00Z",
+            "device": 1,
+            "reading": 92.07,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T16:40:00Z",
+            "device": 1,
+            "reading": 95.73,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T16:50:00Z",
+            "device": 1,
+            "reading": 101.93,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T17:00:00Z",
+            "device": 1,
+            "reading": 97.7,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T17:10:00Z",
+            "device": 1,
+            "reading": 97.2,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T17:20:00Z",
+            "device": 1,
+            "reading": 99.48,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T17:30:00Z",
+            "device": 1,
+            "reading": 104.93,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T17:40:00Z",
+            "device": 1,
+            "reading": 100.68,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T17:50:00Z",
+            "device": 1,
+            "reading": 89.1,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T18:00:00Z",
+            "device": 1,
+            "reading": 84.2,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T18:10:00Z",
+            "device": 1,
+            "reading": 84.45,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T18:20:00Z",
+            "device": 1,
+            "reading": 85.52,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T18:30:00Z",
+            "device": 1,
+            "reading": 89.0,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T18:40:00Z",
+            "device": 1,
+            "reading": 93.87,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T18:50:00Z",
+            "device": 1,
+            "reading": 102.28,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T19:00:00Z",
+            "device": 1,
+            "reading": 104.65,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T19:10:00Z",
+            "device": 1,
+            "reading": 98.74,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T19:20:00Z",
+            "device": 1,
+            "reading": 96.81,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T19:30:00Z",
+            "device": 1,
+            "reading": 98.95,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T19:40:00Z",
+            "device": 1,
+            "reading": 104.03,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T19:50:00Z",
+            "device": 1,
+            "reading": 110.59,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T20:00:00Z",
+            "device": 1,
+            "reading": 109.91,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T20:10:00Z",
+            "device": 1,
+            "reading": 103.75,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T20:20:00Z",
+            "device": 1,
+            "reading": 103.04,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T20:30:00Z",
+            "device": 1,
+            "reading": 105.69,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T20:40:00Z",
+            "device": 1,
+            "reading": 109.13,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T20:50:00Z",
+            "device": 1,
+            "reading": 103.41,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T21:00:00Z",
+            "device": 1,
+            "reading": 93.45,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T21:10:00Z",
+            "device": 1,
+            "reading": 94.75,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T21:20:00Z",
+            "device": 1,
+            "reading": 95.75,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T21:30:00Z",
+            "device": 1,
+            "reading": 99.81,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T21:40:00Z",
+            "device": 1,
+            "reading": 100.07,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T21:50:00Z",
+            "device": 1,
+            "reading": 95.85,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T22:00:00Z",
+            "device": 1,
+            "reading": 94.78,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T22:10:00Z",
+            "device": 1,
+            "reading": 90.81,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T22:20:00Z",
+            "device": 1,
+            "reading": 91.96,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T22:30:00Z",
+            "device": 1,
+            "reading": 91.03,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T22:40:00Z",
+            "device": 1,
+            "reading": 89.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T22:50:00Z",
+            "device": 1,
+            "reading": 92.85,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T23:00:00Z",
+            "device": 1,
+            "reading": 104.4,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T23:10:00Z",
+            "device": 1,
+            "reading": 113.9,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T23:20:00Z",
+            "device": 1,
+            "reading": 113.07,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T23:30:00Z",
+            "device": 1,
+            "reading": 109.58,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T23:40:00Z",
+            "device": 1,
+            "reading": 108.32,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "rad_dr",
+            "when_captured": "2020-12-29T23:50:00Z",
+            "device": 1,
+            "reading": 109.94,
+            "loc_lat": 47.49,
+            "loc_lon": 19.04,
+            "unit": "nSv/h"
+        }
+    ]
+}

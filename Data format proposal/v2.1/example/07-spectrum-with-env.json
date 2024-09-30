@@ -1,0 +1,55 @@
+{
+    "version": 2,
+    "payload": [
+        {
+            "type": "spectrum",
+            "device": "32",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "live_time": 30000,
+            "real_time": 40000,
+            "energy_bin": 2,
+            "reading": [0, 10, 20, 30, 40, 35, 20, 30],
+            "spectrum_type": "HPGe",
+            "waypoints": [
+                {"ts": "2024-01-30T23:12:54Z", "lat": 12.300, "lon": 0.123},
+                {"ts": "2024-01-30T23:12:56Z", "lat": 12.300, "lon": 0.133}
+            ]
+        },
+        {
+            "type": "env_temp",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 30.5,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.05932,
+            "unit": "°C"
+        },
+        {
+            "type": "env_ws",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 5.5,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.06000,
+            "unit": "m/s"
+        },
+        {
+            "type": "env_wd",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 90,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.06000,
+            "unit": "degree"
+        },
+        {
+            "type": "env_rain",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 1000,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.06000,
+            "unit": "mm"
+        }
+    ]
+}

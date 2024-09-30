@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "payload": [
+        {
+            "type": "spectrum",
+            "device": "32",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "live_time": 30000,
+            "real_time": 40000,
+            "energy_bin": 2,
+            "reading": [0, 10, 20, 30, 40, 35, 20, 30]
+        }
+    ]
+}

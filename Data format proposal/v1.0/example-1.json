@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "payload": [
+        {
+            "when_captured": "2024-01-30T23:12:54Z",
+            "device": "27",
+            "loc_lat": 47.47900,
+            "loc_lon": 19.05832,
+            "type": "bg_rad",
+            "reading": 0.04012
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "payload": [
+        {
+            "type": "spectrum",
+            "device": "32",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "live_time": 30000,
+            "real_time": 40000,
+            "energy_bin": 2,
+            "reading": [0, 10, 20, 30, 40, 35, 20, 30],
+            "spectrum_type": "HPGe",
+            "waypoints": [
+                {"ts": "2024-01-30T23:12:54Z", "lat": 12.300, "lon": 0.123},
+                {"ts": "2024-01-30T23:12:56Z", "lat": 12.300, "lon": 0.133}
+            ]
+        }
+    ]
+}

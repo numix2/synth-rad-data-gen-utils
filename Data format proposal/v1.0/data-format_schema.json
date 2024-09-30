@@ -1,0 +1,91 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "https://iaea.org/rds.data.schema.json",
+    "title": "DRS data format",
+    "description": "This document describes the data format used by IAEA CRP J02017. The current version is proposed by Tamas Holczer.",
+    "type": "object",
+    "properties": {
+        "version": {
+            "description": "Version of the data format",
+            "type": "number"
+        },
+        "payload": {
+            "description": "List of measurements",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "when_captured": {
+                        "description": "Timestamp",
+                        "type": "string",
+                        "format": "date-time"
+                    },
+                    "device": {
+                        "description": "Identifier of the device",
+                        "type": "string"
+                    },
+                    "loc_lat": {
+                        "description": "Lattitude",
+                        "type": "number",
+                        "minimum": -90,
+                        "maximum": 90
+                    },
+                    "loc_lon": {
+                        "description": "Longitude",
+                        "type": "number",
+                        "minimum": -180,
+                        "maximum": 180
+                    },
+                    "type": {
+                        "description": "Type of the measured value",
+                        "type": "string",
+                        "enum": ["bg_rad", "bg_cnt", "neutron", "spectrum", "env_temp", "env_humid", "env_press"]
+                    },
+                    "reading": {
+                        "anyOf": [
+                            {
+                                "description": "Actual measurement",
+                                "type": "number"
+                            },
+                            {
+                                "description": "Actual measurement",
+                                "type": "object",
+                                "properties": {
+                                    "spectrum_type": {
+                                        "description": "Type of spectrum",
+                                        "type": "string"
+                                    },
+                                    "count": {
+                                        "description": "List of measurements",
+                                        "type": "array",
+                                        "items": {
+                                            "description": "Counts detected on the given channel",
+                                            "type": "number"
+                                        },
+                                        "minItems": 1
+                                    }
+                                },
+                                "required": [
+                                    "spectrum_type",
+                                    "count"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "required": [
+                    "when_captured",
+                    "device",
+                    "loc_lat",
+                    "loc_lon",
+                    "type",
+                    "reading"
+                ]
+            }
+        }
+    },
+    "required": [
+        "version",
+        "payload"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "payload": [
+        {
+            "when_captured": "2024-02-05T10:15:31Z",
+            "device": "36",
+            "loc_lat": 48.23448240688433,
+            "loc_lon": 16.41586222177042,
+            "type": "env_temp",
+            "reading": 11.76
+        }
+    ]
+}

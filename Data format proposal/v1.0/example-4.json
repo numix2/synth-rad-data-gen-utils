@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "payload": [
+        {
+            "when_captured": "2024-02-08T10:15:00Z",
+            "device": "Pr-1", 
+            "loc_lat": -6.2001828704783675,
+            "loc_lon": 106.81903182570639, 
+            "type": "env_press",
+            "reading": 1008.1
+        },
+        {
+            "when_captured": "2024-02-08T10:20:00Z",
+            "device": "Pr-1", 
+            "loc_lat": -6.2001828704783675,
+            "loc_lon": 106.81903182570639, 
+            "type": "env_press",
+            "reading": 1008.2
+        },
+        {
+            "when_captured": "2024-02-08T10:25:00Z",
+            "device": "Pr-1",
+            "loc_lat": -6.2001828704783675,
+            "loc_lon": 106.81903182570639,
+            "type": "env_press",
+            "reading": 1008.3
+        },
+        {
+            "when_captured": "2024-02-08T10:30:00Z",
+            "device": "Pr-1",
+            "loc_lat": -6.2001828704783675,
+            "loc_lon": 106.81903182570639,
+            "type": "env_press", 
+            "reading": 1008.2
+        }
+    ]
+}
