@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "payload": [
+        {
+            "type": "rad_dr",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 0.04012
+        }
+    ]
+}

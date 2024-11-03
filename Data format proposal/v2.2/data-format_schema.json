@@ -1,0 +1,205 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "https://iaea.org/rds.data.schema.json",
+    "title": "DRS data format",
+    "description": "This document describes the data format used by IAEA CRP J02017. The current version is proposed by the project members. Corresponding author: Tamas Holczer.",
+    "type": "object",
+    "properties": {
+        "version": {
+            "description": "Version of the data format",
+            "type": "number"
+        },
+        "labels": {
+            "description": "List of optional labels",
+            "type": "array",
+            "items": {
+                "description": "Label of the dataset refering to the origin or other attributes of the dataset",
+                "type": "string"
+            }
+        },
+        "payload": {
+            "description": "List of measurements",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "when_captured": {
+                        "description": "Timestamp",
+                        "type": "string",
+                        "format": "date-time"
+                    },
+                    "device": {
+                        "description": "Identifier of the device",
+                        "type": "string"
+                    },
+                    "loc_lat": {
+                        "description": "Lattitude",
+                        "type": "number",
+                        "minimum": -90,
+                        "maximum": 90
+                    },
+                    "loc_lon": {
+                        "description": "Longitude",
+                        "type": "number",
+                        "minimum": -180,
+                        "maximum": 180
+                    },
+                    "type": {
+                        "description": "Type of the measured value",
+                        "type": "string",
+                        "enum": ["rad_dr", "rad_cr", "rad_nc", "spectrum", "env_temp", "env_humid", "env_press", "env_ws", "env_wd", "env_rain"]
+                    },
+                    "reading": {
+                        "anyOf": [
+                            {
+                                "description": "Actual measurement",
+                                "type": "number"
+                            },
+                            {
+                                "description": "Actual measurement",
+                                "type": "array",
+                                "items": {
+                                    "description": "Counts detected on the given channel",
+                                    "type": "number"
+                                },
+                                "minItems": 1
+                            }
+                                
+                        ]
+                    },
+                    "detector_type": {
+                        "description": "Detector type",
+                        "type": "string"
+                    },
+                    "energy_bin": {
+                        "description": "Width of sampling bin for spectrum measured in keV",
+                        "type": "number"
+                    },
+                    "coefficients": {
+                        "description": "List of coefficients used in the interpretation of channel data",
+                        "type": "array",
+                        "items": {
+                            "description": "Coefficient",
+                            "type": "number"
+                        },
+                        "minItems": 1
+                    },
+                    "live_time": {
+                        "description": "Time duration during which the device is actually measuring data measured in milliseconds",
+                        "type": "number"
+                    },
+                    "real_time": {
+                        "description": "Total time required to collect the measurement measured in milliseconds",
+                        "type": "number"
+                    },
+                    "waypoints": {
+                        "description": "List of waypoints",
+                        "type": "array",
+                        "items": {
+                            "description": "Waypoint",
+                            "type": "object",
+                            "properties": {
+                                "ts": {
+                                    "description": "Time",
+                                    "type": "string",
+                                    "format": "date-time"          
+                                },
+                                "lat": {
+                                    "description": "Lattitude",
+                                    "type": "number",
+                                    "minimum": -90,
+                                    "maximum": 90
+                                },
+                                "lon": {
+                                    "description": "Longitude",
+                                    "type": "number",
+                                    "minimum": -180,
+                                    "maximum": 180
+                                }
+                            },
+                            "required": [
+                                "ts",
+                                "lat",
+                                "lon"
+                            ]
+                        },
+                        "minItems": 1
+                    },
+                    "annotations": {
+                        "description": "List of annotations",
+                        "type": "array",
+                        "items": {
+                            "description": "Annotation",
+                            "type": "object",
+                            "properties": {
+                                "time": {
+                                    "description": "Time",
+                                    "type": "string",
+                                    "format": "date-time"          
+                                },
+                                "comment": {
+                                    "description": "Comment",
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "time",
+                                "comment"
+                            ]
+                        },
+                        "minItems": 1
+                    },
+                    "labels": {
+                        "description": "List of labels",
+                        "type": "array",
+                        "items": {
+                            "description": "Label",
+                            "type": "string"
+                        },
+                        "minItems": 1
+                    },
+                    "modifications": {
+                        "description": "Modifications done to the measurement",
+                        "type": "array",
+                        "items": {
+                            "description": "Modification",
+                            "type": "object",
+                            "properties": {
+                                "tag": {
+                                    "description": "Tag of the modification",
+                                    "type": "string"
+                                },
+                                "text": {
+                                    "description": "Textual description of the modification",
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "tag"
+                            ]
+                        },
+                        "minItems": 1
+                    },
+                    "unit": {
+                        "description": "Unit of measurement, overrides the default unit defined in type",
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "when_captured",
+                    "device",
+                    "type",
+                    "reading"
+                ]
+            }
+        },
+        "comment": {
+            "description": "Long textual description of the dataset",
+            "type": "string"
+        }
+    },
+    "required": [
+        "version",
+        "payload"
+    ]
+}

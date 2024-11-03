@@ -1,0 +1,50 @@
+{
+    "version": 2,
+    "payload": [
+        {
+            "type": "rad_dr",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 40.12,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.05832,
+            "unit": "nSv/h"
+        },
+        {
+            "type": "env_temp",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 30.5,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.05932,
+            "unit": "°C"
+        },
+        {
+            "type": "env_ws",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 5.5,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.06000,
+            "unit": "m/s"
+        },
+        {
+            "type": "env_wd",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 90,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.06000,
+            "unit": "degree"
+        },
+        {
+            "type": "env_rain",
+            "device": "27",
+            "when_captured": "2024-01-30T23:12:54Z",
+            "reading": 1000,
+            "loc_lat": 47.47900,
+            "loc_lon": 19.06000,
+            "unit": "mm"
+        }
+    ]
+}
